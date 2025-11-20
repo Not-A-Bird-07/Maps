@@ -3,7 +3,8 @@
     "Name": "WHOYOUCALLS ONLY UP!!!!",
     "Image": "https://thumb.modcdn.io/mods/d8a5/4428432/thumb_1020x2000/untitledimage10.1.jpeg",
     "Url": "https://mod.io/g/gorilla-tag/m/whoyoucalls-only-up?preview=d77e83529f022933f82d553aa2f48d0b",
-    "Good":false
+    "Good":false,
+    "HasLua":true
   },
   {
     "Name": "MOON CRATOR",
